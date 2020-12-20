@@ -8,9 +8,9 @@
    <img src="demo_img/sample1_mask.jpg" width="140" height="300" title="sample mask1"/>
    </p>
 <p align="center">
-  <img src="demo_img/cactus.gif" width="250" height="300" title="sample gif"/>
-  <img src="demo_img/sample5.jpg" width="150" height="300" title="sample image5"/>
-  <img src="demo_img/sample5_mask.jpg" width="150" height="300" title="sample mask5"/>
+  <img src="demo_img/cactus.gif" width="300" height="350" title="sample gif"/>
+  <img src="demo_img/sample5.jpg" width="170" height="350" title="sample image5"/>
+  <img src="demo_img/sample5_mask.jpg" width="170" height="350" title="sample mask5"/>
 </p>
 
 This repository includes the official project of Meticulous Object Segmentation, presented in our paper:
