@@ -39,3 +39,5 @@ This repository includes the official project of Meticulous Object Segmentation,
 ```
 ## Lisence
 Research only
+feel free to contact Chenglin Yang (JHU) (chenglin.yangw@gmail.com) and Yilin Wang (Adobe) (yilwang@adobe.com).
+
