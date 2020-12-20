@@ -1,11 +1,11 @@
 # Meticulous Object Segmentation
 
 <p align="center">
-  <img src="demo_img/flower.gif" width="150" height="250" title="sample gif"/>
+  <img src="demo_img/flower.gif" width="140" height="250" title="sample gif"/>
   <img src="demo_img/sample2.jpg" width="120" height="250" title="samplee image2"/>
   <img src="demo_img/sample2_mask.jpg" width="120" height="250" title="sample mask2"/>
-  <img src="demo_img/sampe1.jpg" width="130" height="250" title="sample image1"/>
-  <img src="demo_img/sample1_mask.jpg" width="130" height="250" title="sample mask1"/>
+  <img src="demo_img/sampe1.jpg" width="120" height="250" title="sample image1"/>
+  <img src="demo_img/sample1_mask.jpg" width="120" height="250" title="sample mask1"/>
   <img src="demo_img/sample5.jpg" width="120" height="250" title="sample image5"/>
   <img src="demo_img/sample5_mask.jpg" width="120" height="250" title="sample mask5"/>
 </p>
