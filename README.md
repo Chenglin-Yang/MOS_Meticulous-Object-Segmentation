@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="demo_img/flower.gif" width="500" title="samplee image1"/>
-  <img src="demo_img/sample2.jpg" width="500" title="samplee image1"/>
-  <img src="demo_img/sample2_mask.jpg" width="500" title="samplee image1"/>
+  <img src="demo_img/sample2.jpg" width="500" title="samplee image2"/>
+  <img src="demo_img/sample2_mask.jpg" width="500" title="sample mask2"/>
 
 </p>
 
