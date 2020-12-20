@@ -21,9 +21,9 @@ This repository includes the official project of Meticulous Object Segmentation,
 - 15 Dec 2020: Release [Arxiv version of paper](https://arxiv.org/pdf/2012.07181.pdf) and sample images and videos coming soon! 
 
 ## TODO
-- Inference Code and Model
+- Inference code and model weights
 - MOS 600 Benchmark
-- More visual example
+- More visual examples
 
 ## Citation
 ```
