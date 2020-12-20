@@ -6,8 +6,8 @@
   <img src="demo_img/sample2_mask.jpg" width="120" height="250" title="sample mask2"/>
   <img src="demo_img/sampe1.jpg" width="130" height="250" title="sample image1"/>
   <img src="demo_img/sample1_mask.jpg" width="130" height="250" title="sample mask1"/>
-  <img src="demo_img/sample5.jpg" width="100" height="250" title="sample image5"/>
-  <img src="demo_img/sample5_mask.jpg" width="100" height="250" title="sample mask5"/>
+  <img src="demo_img/sample5.jpg" width="120" height="250" title="sample image5"/>
+  <img src="demo_img/sample5_mask.jpg" width="120" height="250" title="sample mask5"/>
 </p>
 
 This repository includes the official project of Meticulous Object Segmentation, presented in our paper:
